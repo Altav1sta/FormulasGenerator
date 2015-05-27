@@ -1,0 +1,12 @@
+H:\FormulasGenerator\FormulasGenerator\bin\Debug\FormulasGenerator.exe.config
+H:\FormulasGenerator\FormulasGenerator\obj\Debug\FormulasGenerator.csprojResolveAssemblyReference.cache
+H:\FormulasGenerator\FormulasGenerator\bin\Debug\FormulasGenerator.exe
+H:\FormulasGenerator\FormulasGenerator\bin\Debug\FormulasGenerator.pdb
+H:\FormulasGenerator\FormulasGenerator\obj\Debug\FormulasGenerator.exe
+H:\FormulasGenerator\FormulasGenerator\obj\Debug\FormulasGenerator.pdb
+G:\FormulasGenerator\FormulasGenerator\bin\Debug\FormulasGenerator.exe.config
+G:\FormulasGenerator\FormulasGenerator\obj\Debug\FormulasGenerator.exe
+G:\FormulasGenerator\FormulasGenerator\obj\Debug\FormulasGenerator.pdb
+G:\FormulasGenerator\FormulasGenerator\bin\Debug\FormulasGenerator.exe
+G:\FormulasGenerator\FormulasGenerator\bin\Debug\FormulasGenerator.pdb
+G:\FormulasGenerator\FormulasGenerator\obj\Debug\FormulasGenerator.csprojResolveAssemblyReference.cache
